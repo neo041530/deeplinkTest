@@ -1,0 +1,28 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.everrichapp",
+            "sha256_cert_fingerprints": [
+                "7D:33:92:FC:88:71:F4:59:7F:80:11:CF:AD:AB:01:00:43:EE:15:67:EB:0E:A2:CD:31:A0:8D:96:F5:BC:EC:91",
+                "42:ED:D7:38:3D:FD:F1:80:AE:4A:92:F7:3C:8D:22:03:59:DD:B3:6B:DA:44:B0:79:A2:B7:A7:71:2C:0E:6D:D7"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "everrich.irich.app",
+            "sha256_cert_fingerprints": [
+                "2D:CF:B4:17:65:40:B1:44:C7:81:D4:95:D2:22:73:D6:32:D8:CE:77:38:7B:90:FE:2A:6F:46:67:98:E8:09:BC",
+                "48:42:B2:DE:34:BB:21:E8:29:44:2C:23:58:F3:F3:C9:DF:3C:98:60:35:4B:EB:D2:BA:25:4A:FE:7A:9C:7D:EC"
+            ]
+        }
+    }
+]
